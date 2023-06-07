@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeyemi</h1>
 <h3 align="center">Calling myself a Data Scientist and Machine Learning Engineer doesn't do justice to the thrilling adventure I embark on each day. Although, my background in the sustainable Energy System Domain, I'm on a mission to revolutionize how small businesses scale and how large organizations perceive their data. Peering into the unseen, I dive deep into the realms of data analysis, unravelling hidden patterns and untapped opportunities. My passion lies in crafting cutting-edge models that empower organizations to make data-driven decisions, fuelling their growth and boosting their bottom line. Join me on this exhilarating journey as we harness the power of data to unlock new horizons for businesses, leaving no stone unturned and no potential untapped!</h3>
 
-- 🔭 I’m currently working on a PhD research on **Model Order Reduction of Windfarms**
+- 🔭 I’m currently working on a PhD research on **Data Driven Model Order Reduction of Windfarms**
 
 - 🌱 I’m currently learning **Blockchain Analytics**
 
